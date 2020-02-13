@@ -1,0 +1,10 @@
+---
+layout: post
+title: The Dark Side of Transition
+---
+
+I've been at this for nineteen months total and living fulltime for seven of those. Way back in January of 2018, a prominent member of the trans community gave me the most important advice ever--Not all reactions are final. What does this mean? It means that when you come out, some will reactive negatively and positively and that either type of reaction can change over time. It's fairly self-explanatory, but the part I want to hone in on are the reversals of positive reaction reversal.
+
+I tend to not have many superficial friendships because I'd prefer to have a few deep friendships to focus any excess energy on. Of my twelve deep friendships, all of them have spanned decades. I was naturally ecstatic when all of my closest inner circle reacted positively. Now, nineteen months later, where do things stand? Of the twelve, 90% no longer return my calls or texts. These are people whom I used to speak with at least weekly. If it weren't for the fact that they stopped responding around the same time, I'd just assume that normal life has disrupted our communications. After all, people do grow up and grow apart. I see there social media posts and I hear from others that they are doing well, but I no longer hear from them.
+
+Any good person would remark "fuck them" upon hearing this and that's my current tact. However, it doesn't lessen the pain of losing deep relationships that have spanned most of your life. It doesn't easily replace the now withered support system. It doesn't provide advice on the days when all the hope is gone and you just thing about how much better off you'd be if you didn't have to feel this pain anymore. Despite it all, you'd think I'd have seeds of doubt about transition, but I don't. The fact of the matter is that I'm forming new friendships and I have a support network that is made up of amazing people. Time can heal this and I'm doing the best I can to bend without breaking. I'm at the point where I don't know how to hope anymore. I'm trying to remember how it feels to hope and I can't anymore. Somehow, despite the fact that this well is dry, I continue.

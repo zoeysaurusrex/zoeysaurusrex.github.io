@@ -1,0 +1,12 @@
+---
+layout: post
+title: Seat's Taken - When all you want is to be one of the girls
+---
+
+Transition is finally beginning to become automatic for me. I’ve still got a lot of work to do with my voice and appearance, but I’m on the way. With that comes a renewed desire to put transition back into the box and let it become one facet of who I am. Part of moving on from transition means finding normalcy in being a woman. I find that these days, I want to just be a normal woman. I see my friends and coworkers doing normal things and I want that too.
+
+Since the start of my transition, I’ve wanted for the women in my life to include me when they do things with other women. I don’t fault anyone for my expectations not being met, but it’s still something I desire. Back in Nashville, I worked with quite a few women. While they openly supported me, I was still never thought of enough to be included in their outings. At first I thought it was just me, and maybe it was. When we would get new women in the office, I often found they were included even when I wasn’t. It just serves to reinforce that feeling in my mind that despite having many supporters, not many women see me as enough of a woman to include me in the things they do with their gal pals.
+
+This isn’t just exclusive to Nashville. In my four months in Seattle, I’ve experienced much of the same. The worst of it shows up when standing in a group of women and we all start talking about doing something fun, only for all of them to make plans and exclude me from the conversation. I’ve had at least one person tell me I’d have better luck in finding meetups with other Transwomen and it isn’t really about that. It’s about finding people you have a ton in common with, only for them to not be willing to take the next step in friendship.
+
+This isn’t to say that I don’t have a ton of great experiences. Despite the false starts in Seattle, I think I’m making friends with one or two amazingly strong women. They strive to include me and theyve made it clear that im a woman to them. There is light and hope here for the first time in a long time. I’ve always been the type to prefer a few deep friendships over a ton of shallow ones and maybe that isn’t possible for me anymore.
