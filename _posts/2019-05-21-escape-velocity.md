@@ -1,5 +1,3 @@
-# Escape Velocity
-
 *May 5th, 2019*
 
 In this post, I want to talk about navigating life with major depression. This is a very difficult post for me for a number of reasons, which I'll detail throughout. I'm finally coming out of the fog of a major depressive episode. The truth of the matter is that I almost didn't make it out this time. At this point, I've had at least four major episodes before, and yet it feels like the first time every time. During this episode, I had a new feeling--one that scared me. Sometime a few Saturdays ago, I became afraid of myself. I spent the next three days going between thoughts of ending it all and not ending it all because I knew how many lives I would destroy, including my own. During that time, the parts of me that wanted to survive kept screaming for me to reach out to anyone while the parts of me that didn't want to live kept shoveling more dirt and rocks over top of me. Honestly, I have my wife (I love you!) and a few close friends (thank you Elisabeth, John, and Merrie!) to thank for me being here. Any properly skilled therapist would tell me to also thank myself for being here, but I can't.
