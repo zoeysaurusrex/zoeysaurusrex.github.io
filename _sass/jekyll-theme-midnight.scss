@@ -173,7 +173,8 @@ dt {
     padding: 0 10px;
     background: blue;
     margin: 6px auto;
-
+    font-size: 18px;
+    
     li {
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
@@ -190,7 +191,7 @@ dt {
         background: linear-gradient(#93bd20, #659e10);
         border-radius: 2px;
         box-shadow: inset 0px 1px 0px rgba(255,255,255,.3), 0px 3px 7px rgba(0,0,0,.7);
-
+        margin-left: 20px;
         background-color: #93bd20;
         padding: 10px 12px;
         margin-top: 6px;
