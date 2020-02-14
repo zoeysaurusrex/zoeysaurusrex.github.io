@@ -300,6 +300,19 @@ img {
   }
 }
 
+// Nicolas Gallagher's micro clearfix hack
+// http://nicolasgallagher.com/micro-clearfix-hack/
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+
 .wrapper-masthead {
   margin-bottom: 50px;
 }
