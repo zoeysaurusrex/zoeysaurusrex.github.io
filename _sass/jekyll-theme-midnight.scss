@@ -272,6 +272,15 @@ section {
   }
 }
 
+img {
+  max-width: 100%;
+}
+
+// Fixes images in popup boxes from Google Translate
+.gmnoprint img {
+  max-width: none;
+}
+
 .site-avatar {
   float: left;
   width: 70px;
@@ -286,6 +295,8 @@ section {
 
   img {
     border-radius: 5px;
+    width: 70px;
+    height: 70px;
   }
 }
 
