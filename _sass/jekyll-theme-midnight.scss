@@ -288,6 +288,26 @@ section {
   }
 }
 
+.wrapper-masthead {
+  margin-bottom: 50px;
+}
+
+.masthead {
+  padding: 20px 0;
+  border-bottom: 1px solid lightgray;
+
+  @include mobile {
+    text-align: center;
+  }
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+}
+
 .site-info {
   float: left;
 
@@ -302,7 +322,7 @@ section {
   margin: 0;
   color: white;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
