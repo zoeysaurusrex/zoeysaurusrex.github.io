@@ -1,4 +1,150 @@
 ---
 ---
 
-@import "jekyll-theme-midnight";
+@import "colors";
+@import "fonts";
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: $backgroundColor;
+    background-image: $backgroundImage;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* Remove user-agent bullshit */
+
+
+article {
+    margin-left: 30%;
+    margin-right: 20%;
+
+    @media only screen and (max-width: 800px) {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+
+article > .post {
+    h1 {
+
+        font-size: xx-large;
+    }
+}
+
+a {
+    color: $postHeaderColor;
+    text-decoration: none;
+}
+
+.container > .post {
+    @media only screen and (max-width: 800px) {
+        margin-top: 25%;
+    }
+}
+
+.posts {
+    @media only screen and (max-width: 800px) {
+        margin-top: 25%;
+    }
+}
+
+.wrapper-masthead {
+    background-color: $sidebarBackgroundColor;
+    color: $sidebarText;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 20%;
+    min-height: 100%;
+    height: 100%;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,.05), inset 0 -1px 0 rgba(0,0,0,.1);
+
+    @media only screen and (max-width: 800px) {
+        width: 100%;
+        min-height: 100px;
+        height: 100px;
+    }
+}
+
+.wrapper-masthead > .container {
+    margin: 10px;
+    @media only screen and (max-width: 800px) {
+        width: 100%;
+        height: 100px;
+    }
+}
+
+.wrapper-masthead > .container > .site-info {
+    margin: 10px;
+    text-align: center;
+
+}
+
+.wrapper-masthead > .container > .site-info > .site-name {
+    margin: 10px;
+    text-align: center;
+
+    @media only screen and (max-width: 800px) {
+        display: block;
+        position: absolute;
+        top: 15px;
+        left: 125px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.wrapper-masthead > .container > .site-info > .site-name > a {
+    font-size: xx-large;
+    color: $white;
+    text-decoration: none;
+    
+}
+
+.wrapper-masthead > .container > .site-info > .site-description {
+    font-size: small;
+    @media only screen and (max-width: 800px) {
+        display: none;
+    }
+}
+
+.wrapper-masthead > .container > nav {
+    text-align: center;
+    color: $white;
+    @media only screen and (max-width: 800px) {
+        display: none;
+    }
+}
+
+.wrapper-masthead > .container > nav > a {
+    padding-top: 10px;
+    color: $white;
+    display: block;
+    text-decoration: none;
+    font-size: medium;
+    @media only screen and (max-width: 800px) {
+        display: none;
+    }
+}
+
+.wrapper-masthead > .container > .site-avatar > img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+    @media only screen and (max-width: 800px) {
+        width: 75px !important;
+        height: 75px !important;
+        border-radius: 50%;
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-left: 20px;
+        margin-right: unset;
+        display: inline;
+    }
+}
